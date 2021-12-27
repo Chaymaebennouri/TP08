@@ -11,5 +11,9 @@
     "url": "(https://github.com/Chaymaebennouri/TP08.git)"
   },
   "author": "chaima",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2"
+  }
 }
